@@ -1,6 +1,6 @@
 ## Constant Execution Time (CET) sorting
 
-Some C implementations of standard and CET versions of four different sorting algorithms to sort 10000 integers. A constant execution time guarantee can be useful in certain real-time systems. These implementations are intended purely as experiments to see how different CET sorting algorithms behave for worst-case, best-case and random input in terms of overhead and execution time.
+Some C implementations of standard and CET versions of different sorting algorithms to sort 10000 integers. A constant execution time guarantee can be useful in certain real-time systems. These implementations are intended purely as experiments to see how different CET sorting algorithms behave for worst-case, best-case and random input in terms of overhead and execution time.
 
 ### Usage
 
