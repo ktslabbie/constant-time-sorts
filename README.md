@@ -9,15 +9,15 @@ Some C implementations of standard and CET versions of different sorting algorit
 Where `sort_type` can be any of:
 
 ```
-b | c (bubblesort    | CET bubblesort)
-i | j (insertionsort | CET insertionsort)
-q     (quicksort)
-s | t (selectionsort | CET selectionsort)
-y | z (shellsort     | CET shellsort)
+b | c  (bubblesort | CET bubblesort)
+i | j  (insertionsort | CET insertionsort)
+q      (quicksort)
+s | t  (selectionsort | CET selectionsort)
+y | z  (shellsort | CET shellsort)
 ```
 
 Flag `v` enables verbose reporting. `w | b | r` for generating worst-case (reverse-sorted), best-case (sorted) or random (default) sets of integers.
 
 ### Results
 
-A short paper on the results can be found [here](http://ktslabbie.github.io/resources/papers/2011_Constant_Time_Algorithms.pdf).
+A short paper on the results can be found [here](http://ktslabbie.github.io/resources/papers/2011_Constant_Time_Algorithms.pdf) (it was a runner-up for Best Paper Award in Delft University's Real-time Systems course, for what it's worth).
